@@ -1,0 +1,26 @@
+body{
+	background: #A3C9FC;
+}
+
+h1{
+	text-align:center;
+	margin-top: 5px;
+}
+.frm{
+	border: 1px solid gray;
+	width: 30%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background : white;
+	padding: 50px; 
+}
+
+#smt{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 69%;
+}
+#fs,#ls,#us,#ps,#rp{
+	font:bold 20px Tahoma;
+}
